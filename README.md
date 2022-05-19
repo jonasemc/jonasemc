@@ -2,7 +2,7 @@
 Buscando aprender novas tecnologias e aprimorar minhas skills
 
 
-- 🌱 Atualmente estudando React
+
 
 <div align="center">
   <a href="https://github.com/jonasemc">
