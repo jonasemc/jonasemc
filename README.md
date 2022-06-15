@@ -1,4 +1,4 @@
-### Olá, me chamo Jonas, tenho 21 anos e sou estudante de Engenharia da Computação
+### Olá, me chamo Jonas, tenho 22 anos e sou estudante de Engenharia da Computação
 Buscando aprender novas tecnologias e aprimorar minhas skills
 
 
