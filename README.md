@@ -1,21 +1,29 @@
-### Olá, me chamo Jonas, tenho 22 anos e sou estudante de Engenharia da Computação
-Buscando aprender novas tecnologias e aprimorar minhas skills
+# Hello!
+My name is Jonas and i'm a Computer Engineering student 💻.\
+I'm a frontend developer and I'm always looking to learn something new and improve my skills 🌱.
 
 
 
 
-<div align="center">
-  <a href="https://github.com/jonasemc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasemc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasemc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![Jonas Miranda](https://github-readme-stats.vercel.app/api?username=jonasemc&show_icons=true&count_private=true&theme=dracula)
+![Jonas Miranda](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasemc&layout=compact&langs_count=16&theme=dracula)
 
-<div style="display: inline_block"><br>
-  <img align="left" alt="Jonas-C" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="left" alt="Jonas-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="left" alt="Jonas-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="left" alt="Jonas-JS" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Jonas-React" height="30" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
-  
+## Some Technologies i use
+![Node](https://img.shields.io/badge/node-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-2599ED?style=for-the-badge&logo=React&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white)
+![Css](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
