@@ -1,6 +1,6 @@
 # Hello!
 My name is Jonas and i'm a Computer Engineering student 💻.\
-I'm a frontend developer and I'm always looking to learn something new and improve my skills 🌱.
+I'm a software developer and I'm always looking to learn something new and improve my skills 🌱.
 
 
 
