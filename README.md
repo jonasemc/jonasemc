@@ -5,7 +5,7 @@ I'm a software developer and I'm always looking to learn something new and impro
 
 
 ![Jonas Miranda](https://github-readme-stats.vercel.app/api?username=jonasemc&show_icons=true&count_private=true&theme=radical)
-![Jonas Miranda](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasemc&layout=compact&langs_count=16&theme=radical)
+![Jonas Miranda](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasemc&layout=compact&langs_count=10&theme=radical)
 
 ## Some Technologies i use
 ![Node](https://img.shields.io/badge/node-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
